@@ -154,7 +154,7 @@ EMAIL_HOST_PASSWORD = os.environ.get("EMAIL_HOST_PASSWORD")
 
 
 JWT_SECRET_KEY = os.environ.get("JWT_SECRET_KEY")
-HOMEPAGE = "http://127.0.0.1:8000"
+HOMEPAGE = "https://todoreactdjango.herokuapp.com"
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
