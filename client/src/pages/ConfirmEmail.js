@@ -62,7 +62,7 @@ export class ResetPassword extends Component {
                         <div className=" col-md-5">
                             <form className="card">
                                 <div className="card-header">
-                                    <h1>EpubReader</h1>
+                                    <h1>Todo App</h1>
                                 </div>
                                 <div className="card-body">
                                     <button
